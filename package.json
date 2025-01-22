@@ -1,6 +1,6 @@
 {
   "name": "this.video",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "this.video",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://neurons.me",
   "docs": "https://suiGn.github.io/this.video",
-  "type":"module",
+  "type": "module",
   "author": "suiGn",
   "license": "MIT",
   "repoType": "NPM Package",
